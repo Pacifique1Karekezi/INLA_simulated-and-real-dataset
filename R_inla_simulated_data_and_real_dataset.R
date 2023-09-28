@@ -1,5 +1,5 @@
 
-##Self study on R INLA ####################
+## R-INLA ####################
 # On a simulated dataset and for a real dataset######
 #########################################
 
